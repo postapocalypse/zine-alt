@@ -3,15 +3,15 @@ width: 60%;
 	margin-top:10%;
     margin: 50px auto;
     max-width: 1000px;
-	line-height:1.7em;
-	font-size:13px;
+/* 	line-height:1.7em; */
+/* 	font-size:13px; */
  font-family: "futura-pt";
 
   
 }
 .heading {
 font-family: bookmania;
-font-size:20px;
+font-size: 2em;
 	line-height: 1em;
 	text-align: center;
 
