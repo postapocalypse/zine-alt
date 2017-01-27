@@ -38,6 +38,7 @@ h4 a:hover{
 	font-size:2rem;
 	padding:16px 31px;
 	text-decoration:none;
+	    margin: 0.25rem;
 }
 .button a:hover {
 	background-color:lightsalmon;
