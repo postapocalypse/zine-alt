@@ -10,7 +10,7 @@ width: 60%;
 h3 {
 font-family: bookmania;
 font-size:3.25rem;
-	text-align: center;
+/* 	text-align: center; */
 
 }
 
@@ -28,7 +28,7 @@ h4 a:hover{
  } */
 
     .button a{
-	    text-align: center;
+/* 	    text-align: center; */
 	    float:left;
 	background-color:salmon;
 	-moz-border-radius:4px;
@@ -42,7 +42,7 @@ h4 a:hover{
 	font-size:2rem;
 	padding:16px 31px;
 	text-decoration:none;
-	    margin: 0.25rem;
+	    margin: 0.5rem;
 }
 .button a:hover {
 	background-color:lightsalmon;
@@ -53,6 +53,6 @@ h4 a:hover{
 }
 
 .w {
-margin: 0 auto;	
-	width: 100%;
+/* margin: 0 auto;	
+	width: 100%; */
 }
