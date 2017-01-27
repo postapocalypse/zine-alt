@@ -1,6 +1,6 @@
 body {
  margin-left: 10%;
- margin-top:7%;
+ margin-top:5%;
 width: 80%;
  font-family: futura;
  font-size:0.75rem;
@@ -11,7 +11,10 @@ font-family: bookmania;
 font-size:3rem;
 }
 
-h4 {
- font-family: futura;
- font-size:2rem;
+h4 a {
+ font-family: futura-pt;
+ font-size:2.5rem;
+ text-decoration: none;
+ font-weight: 500;
+ color: salmon;
 }
