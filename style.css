@@ -61,7 +61,7 @@ margin: 0 auto;
 
 .site {
   display: flex;
-  min-height: 800vh;
+  min-height: 80vh;
   flex-direction: column;
 }
 
