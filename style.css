@@ -27,6 +27,7 @@ h4 a:hover{
  } */
 
     .button a{
+	    float:left;
 	background-color:salmon;
 	-moz-border-radius:4px;
 	-webkit-border-radius:4px;
