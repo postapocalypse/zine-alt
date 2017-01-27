@@ -10,6 +10,7 @@ width: 60%;
 h3 {
 font-family: bookmania;
 font-size:3.25rem;
+	text-align: center;
 
 }
 
@@ -27,6 +28,7 @@ h4 a:hover{
  } */
 
     .button a{
+	    text-align: center;
 	    float:left;
 	background-color:salmon;
 	-moz-border-radius:4px;
