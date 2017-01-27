@@ -11,7 +11,7 @@ width: 60%;
 h3 {
 font-family: bookmania;
 font-size:3.25rem;
-	text-align: center;
+/* 	text-align: center; */
 
 }
 
@@ -61,10 +61,14 @@ margin: 0 auto;
 
 .site {
   display: flex;
-  min-height: 100vh;
+  min-height: 800vh;
   flex-direction: column;
 }
 
 .main {
   flex: 1;
+}
+
+.footer{
+font-family: futura-pt;	
 }
