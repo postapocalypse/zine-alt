@@ -28,7 +28,7 @@ h4 a:hover{
  } */
 
     .button a{
-/* 	    text-align: center; */
+	    text-align: center;
 	    float:left;
 	background-color:salmon;
 	-moz-border-radius:4px;
