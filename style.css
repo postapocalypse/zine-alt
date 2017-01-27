@@ -11,7 +11,8 @@ width: 60%;
 }
 .heading {
 font-family: bookmania;
-font-size: 2em;
+  font-size:100%;
+
 	line-height: 1em;
 	text-align: center;
 
