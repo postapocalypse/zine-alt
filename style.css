@@ -8,16 +8,16 @@ width: 80%;
 }
 h3 {
 font-family: bookmania;
-font-size:3rem;
+font-size:3.25rem;
     color:cornflowerblue;
 }
 
 h4 a {
  font-family: futura-pt;
- font-size:2.5rem;
+ font-size:2.25rem;
  text-decoration: none;
  font-weight: 700;
- color: salmon;
+
 }
 
 h4 a:hover{
