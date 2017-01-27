@@ -28,6 +28,14 @@ h4 a:hover{
   color:mistyrose;
  } */
 
+.pure-button {
+	background-color:salmon;
+	color:#fff;
+	 font-family: futura-pt;
+	    font-weight:700;
+	font-size:2rem;
+}
+
     .button a{
 	    text-align: center;
 	    float:left;
