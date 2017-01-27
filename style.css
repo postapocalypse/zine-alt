@@ -10,7 +10,8 @@ width: 60%;
 }
 h3 {
 font-family: bookmania;
-/* font-size:3.25rem; */
+font-size:20px;
+	line-height: 1em;
 	text-align: center;
 
 }
