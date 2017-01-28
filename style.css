@@ -15,7 +15,7 @@ body {
   
 }
 .heading {
-font-family: "bookmania";
+font-family: bookmania; !important
 font-size: calc(1.5em + 2vw + 2vh);
 	line-height: 1em;
 	text-align: center;
