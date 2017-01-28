@@ -19,6 +19,7 @@ font-family: bookmania;
 font-size: 40px;
 	line-height: 1em;
 	text-align: center;
+  margin-top:
 
 }
 
@@ -118,13 +119,12 @@ font-family: futura-pt;
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 20px;
-    font-weight: bold;
-    color: white;
-    border: 3px solid white;
+  font-family: bookmania; 
+font-size: 40px;
+	line-height: 1em;
+	text-align: center;
     padding: 1em 1.6em;
     font-weight: 100;
-    border-radius: 5px;
     line-height: 1em;
 }
 
